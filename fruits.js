@@ -1,4 +1,4 @@
-const fruits = ["Apple", "Banana", "Pear", "Orange"];
+const fruits = ["Kiwi", "Raspberry", "Strawberry", "Pineapple"];
 
 fruits.forEach(fruit => {
     console.log(`${fruit} is a fruit`);
